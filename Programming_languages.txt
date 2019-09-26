@@ -1,0 +1,3 @@
+Kendrick  - C++, C#, HTML, Javascript, CSS
+Hubert  - C++, HTML, Javascript, CSS, Node.js
+Khinshan  - C++, C, HTML, CSS, Python, Javascript, Ocaml
