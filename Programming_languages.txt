@@ -1,5 +1,5 @@
 Programming languages:
 
-Kendrick  - C++, C#, HTML, Javascript, CSS
 Hubert  - C++, HTML, Javascript, CSS, Node.js
+Kendrick  - C++, C#, HTML, Javascript, CSS
 Khinshan  - C++, C, HTML, CSS, Python, Javascript, Ocaml
