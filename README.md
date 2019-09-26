@@ -6,5 +6,8 @@ Workflow for team Cats
 - Kendrick [Contributor]
 - Hubert [Contributor]
 
-### Report
+### Report 1
 There was no ambiguity.
+
+### Report 2
+`upstream` is just a name and it points to the canonical repository. This can be used to sync a fork with the remote repository.
