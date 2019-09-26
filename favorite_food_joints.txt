@@ -1,10 +1,10 @@
 Favorite Food Joints
 
-- Khinshan:
-  - Pastafina
 - Hubert
   - Chiptole
   - Starbucks
 - Kendrick
   - Halal cart
   - Dunkin
+- Khinshan:
+  - Pastafina
