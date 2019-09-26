@@ -1,7 +1,10 @@
 Favorite Food Joints
 
-- Pastafina
-- Chiptole
-- Starbucks
-- Halal cart
-- Dunkin
+- Khinshan:
+  - Pastafina
+- Hubert
+  - Chiptole
+  - Starbucks
+- Kendrick
+  - Halal cart
+  - Dunkin
